@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khannoman12&label=Profile%20views&color=0e75b6&style=flat" alt="khannoman12" /> </p>
 
-- 🔭 I’m currently working on **Brain Tumour Detection also area Calculation**
+- 🔭  Final Year project **Brain Tumour Detection also area Calculation**
 
 - 🌱 I’m currently learning **Bussiness Inteligence**
 
