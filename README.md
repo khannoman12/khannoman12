@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Noman Khan</h1>
-<h3 align="center">Data Scientist | Machine Learning & Computer Vision Researcher</h3>
+<h3 align="center">Data Scientist | Machine Learning & Computer Vision </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khannoman12&label=Profile%20views&color=0e75b6&style=flat" alt="khannoman12" />
@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 Graduate with a strong foundation in **Computer Science & Data Science**
+- 🎓 Graduate with a strong foundation in ** Data Science**
 - 🔬 **Final Year Project:** Brain Tumor Detection & Area Calculation using MRI images
 - 🧠 Interested in **Machine Learning, Computer Vision, and Data-Driven Research**
 - 🌱 Currently learning **Business Intelligence & Advanced Data Analytics**
