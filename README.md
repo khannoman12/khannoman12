@@ -78,4 +78,3 @@ https://github.com/khannoman12
 - 📄 Prepare for **PhD applications (Europe-focused)**
 - 🧪 Explore efficient and interpretable ML systems
 
-<i>This profile is optimized for research internships, PhD applications, and ML-focused roles.</i>
