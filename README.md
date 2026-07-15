@@ -120,7 +120,6 @@ A collection of applied machine learning notebooks and experiments.
 ### 🚀 Next Goals
 
 - 📌 Publish research-focused ML and applied AI projects
-- 📄 Prepare for PhD applications (Europe-focused)
 - 🧪 Explore efficient, interpretable ML systems
 - ☁️ Deepen expertise in Generative AI on Microsoft Azure (Azure AI-102 / AI-103)
 
