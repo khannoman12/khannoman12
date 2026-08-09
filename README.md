@@ -65,11 +65,15 @@ Case studies of AI agents built in Azure AI Foundry, with tested conversation ex
 </td>
 <td width="50%" valign="top">
 
-**📁 ML Projects**
+### 💳 Credit Card Analytics (Power BI)
 
-A collection of applied machine learning notebooks and experiments.
+End-to-end credit card customer & transaction analytics pipeline — PostgreSQL for data modeling and Power BI for interactive dashboards.
 
-🔗 [View Repository](https://github.com/khannoman12/ML-projects)
+- PostgreSQL database design with ETL/COPY-based ingestion
+- Two interactive Power BI dashboards (transaction + demographic intelligence)
+- Advanced DAX metrics and business KPI tracking
+
+🔗 [View Repository](https://github.com/khannoman12/credit-card-analytics-powerbi)
 
 </td>
 </tr>
