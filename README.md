@@ -152,8 +152,10 @@ End-to-end credit card customer & transaction analytics pipeline — PostgreSQL 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=khannoman12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khannoman12&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=khannoman12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khannoman12&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -168,9 +170,9 @@ End-to-end credit card customer & transaction analytics pipeline — PostgreSQL 
 
 ### 🤝 Let's Connect
 
-📫 **Email:** khnnoman3@gmail.com
-💼 **LinkedIn:** [in/noman-khan](https://www.linkedin.com/in/noman-khan)
-📄 **Resume:** [View CV](PASTE_YOUR_CV_LINK_HERE)
+📫 **Email:** khnnoman3@gmail.com <br>
+💼 **LinkedIn:** [in/noman-khan](https://www.linkedin.com/in/noman-khan) <br>
+📄 **Resume:** [View CV]("C:\Users\hp\Downloads\Noman_Khan_CV_Updated (1).pdf")
 
 <p align="left">
   <em>Open to full-time roles, internships, and freelance projects in Data Science, Computer Vision, and Generative AI.</em>
