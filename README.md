@@ -172,7 +172,7 @@ End-to-end credit card customer & transaction analytics pipeline — PostgreSQL 
 
 📫 **Email:** khnnoman3@gmail.com <br>
 💼 **LinkedIn:** [in/noman-khan](https://www.linkedin.com/in/noman-khan) <br>
-📄 **Resume:** [View CV]("C:\Users\hp\Downloads\Noman_Khan_CV_Updated (1).pdf")
+📄 **Resume:** [View CV])
 
 <p align="left">
   <em>Open to full-time roles, internships, and freelance projects in Data Science, Computer Vision, and Generative AI.</em>
