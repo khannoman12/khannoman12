@@ -171,7 +171,7 @@ End-to-end credit card customer & transaction analytics pipeline — PostgreSQL 
 ### 🤝 Let's Connect
 
 📫 **Email:** khnnoman3@gmail.com <br>
-💼 **LinkedIn:** [in/noman-khan](https://www.linkedin.com/in/noman-khan) <br>
+💼 **LinkedIn:** [in/noman-khan](www.linkedin.com/in/noman-khan-98580624) <br>
 📄 **Resume:** [View CV])
 
 <p align="left">
